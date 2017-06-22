@@ -1,0 +1,6 @@
+---
+title:  "É só sentar na ponta"
+subtitle: "Anderson Silva (Spider)"
+image: "img/20170622-asilva.jpg"
+date:   2017-06-22 12:12:12
+---

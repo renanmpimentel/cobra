@@ -1,0 +1,6 @@
+---
+title:  "Tá tudo atrás de mim"
+subtitle: "Carlos Ferraz (Frodo)"
+image: "img/20170622-frodo.jpg"
+date:   2017-06-22 10:12:12
+---
