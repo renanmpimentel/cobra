@@ -1,0 +1,6 @@
+---
+title: "Tem é que dar muito mais"
+subtitle: "Rogérius"
+image: "img/20170321-rogérius.jpg"
+date: 2017-03-21 17:33:39
+---
