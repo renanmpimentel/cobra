@@ -1,0 +1,6 @@
+---
+title:  "Já entrou"
+subtitle: "Jota Véio"
+image: "img/20170629-jota.jpg"
+date:   2017-06-29 12:12:12
+---
