@@ -1,0 +1,6 @@
+---
+title: "O Jeferson entrou atrás"
+subtitle: "Yudi"
+image: "img/20170321-yudi.jpg"
+date: 2017-03-21 17:16:10
+---
