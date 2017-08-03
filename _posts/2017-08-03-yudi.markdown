@@ -1,0 +1,6 @@
+---
+title: "Pode passar o dedo, é fundo"
+subtitle: "Yudi"
+image: "img/20170803-yudi.jpg"
+date: 2017-08-03 14:52:49
+---

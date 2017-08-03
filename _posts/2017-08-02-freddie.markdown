@@ -2,5 +2,5 @@
 title: "Quem mandou você apertar meu botão?” Freddie"
 subtitle: "Quem mandou você apertar meu botão?” Freddie"
 image: "img/20170802-freddie.jpg"
-date: 2017-08-02 14:58:49
+date: 2017-08-03 14:55:49
 ---
