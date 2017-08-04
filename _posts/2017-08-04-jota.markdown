@@ -1,0 +1,6 @@
+---
+title: "A salsicha é gostosa"
+subtitle: "Jota véio"
+image: "img/20170804jota.jpg"
+date: 2017-08-04 12:00:00
+---

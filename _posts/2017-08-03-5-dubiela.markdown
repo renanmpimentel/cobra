@@ -1,0 +1,6 @@
+---
+title: "Eu dei pro Yudi"
+subtitle: "Dubiela"
+image: "img/201708035dubiela.jpg"
+date: 2017-08-03 20:00:00
+---
