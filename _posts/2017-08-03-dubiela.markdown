@@ -2,5 +2,5 @@
 title: "Faz tempo que eu não pego em uma bola."
 subtitle: "Dubiela"
 image: "img/20170803-dubiela.jpg"
-date: 2017-08-03 14:51:49
+date: 2017-08-03 14:54:49
 ---
