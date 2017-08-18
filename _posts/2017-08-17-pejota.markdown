@@ -1,0 +1,6 @@
+---
+title: "Eu mordo só a bolinha!"
+subtitle: "PêJota"
+image: "img/20170817-pejota.jpg"
+date: 2017-08-17 12:30:00
+---
