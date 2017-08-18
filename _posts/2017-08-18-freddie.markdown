@@ -1,0 +1,6 @@
+---
+title: "Você fica colocando coisa na minha boca!"
+subtitle: "Freddie"
+image: "img/20170818-freddie.jpg"
+date: 2017-08-18 13:27:35
+---
