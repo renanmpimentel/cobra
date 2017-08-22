@@ -1,0 +1,6 @@
+---
+title: "Alguém zuou o meu antes"
+subtitle: "Nelson"
+image: "img/20170818-nelson.jpg"
+date: 2017-08-18 17:55:35
+---

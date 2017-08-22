@@ -1,0 +1,6 @@
+---
+title: "Eu tava precisando de uma bolinha. E peguei a do Thiago"
+subtitle: "Renata"
+image: "img/20170822-renata.jpg"
+date: 2017-08-22 13:11:35
+---

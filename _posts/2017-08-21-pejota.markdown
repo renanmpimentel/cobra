@@ -1,0 +1,6 @@
+---
+title: "Isso machuca profundamente!"
+subtitle: "PêJota"
+image: "img/20170821-pejota.jpg"
+date: 2017-08-21 13:58:35
+---
